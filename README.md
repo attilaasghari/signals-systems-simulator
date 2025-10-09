@@ -61,11 +61,12 @@ python main.py
 ### Build Standalone Executable
 ```bash
 pyinstaller --onefile --windowed --name="SignalsSystemsSimulator" main.py
+```
 ---
 
 ## 📂 Project Structure
 
-```
+``` 
 signals-systems-simulator/
 ├── main.py                 # Application entry point
 ├── setup.py                # Build and distribution script
@@ -87,9 +88,9 @@ signals-systems-simulator/
 │
 └── config/                 # Application configuration
     └── __init__.py         # Constants and settings
+
 ```
 
----
 
 ## 🎓 Educational Applications
 
