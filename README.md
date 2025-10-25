@@ -142,7 +142,7 @@ signals-systems-simulator/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here showing:)*
+![Signal and system Simulator](https://ata.vitren.ir/projects/sass/signa-and-systems-simulator.png)
 - Signal generation panel with sine wave
 - System analysis panel with low-pass filter
 - Four-panel visualization (time domain, frequency domain, system response, pole-zero plot)
